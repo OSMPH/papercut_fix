@@ -2,8 +2,6 @@
 
 ## [Request a Fix](../../issues/new) &nbsp;&nbsp;&nbsp; [Fix something](../../issues?q=is%3Aissue)
 
----
-
 **Manage your expectations**
 
 The OpenStreetMap project is impossible without volunteers who contribute their time, skills, and other resources.
